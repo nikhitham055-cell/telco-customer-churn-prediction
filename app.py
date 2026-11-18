@@ -553,5 +553,5 @@ st.markdown("---")
 
 st.markdown(
     "[🔗 View Full Project on GitHub]"
-    "(https://github.com/shivharebhupendra/telco-customer-churn-prediction)"
+    "(https://github.com/nikhitham055-cell/telco-customer-churn-prediction?utm_source=chatgpt.com)"
 )
